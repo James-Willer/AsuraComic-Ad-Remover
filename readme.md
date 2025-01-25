@@ -7,11 +7,8 @@ A simple Chrome extension designed to remove ads from AsuraComic.
 Follow the steps below to install and set up the extension:
 
 ### Step 1: Download the Repository
-1. Clone or download the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-   Alternatively, click the **Code** button on the repository page and select **Download ZIP**.
+1. Download the repository:
+   Click the **Code** button on the repository page and select **Download ZIP**.
 
 2. If you downloaded the ZIP file, unzip it to a folder of your choice.
 
