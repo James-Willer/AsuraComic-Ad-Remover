@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "AsuraComic Ad Remover",
+  "version": "1.0",
+  "description": "Removes specific elements on asuracomic.net.",
+  "host_permissions": ["https://asuracomic.net/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://asuracomic.net/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
