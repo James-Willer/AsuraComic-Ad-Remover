@@ -45,6 +45,23 @@ Feel free to fork the repository and submit pull requests for any improvements o
 This project is for educational purposes lol
 
 ---
+## Optional Way
+If you already installed the ublock on your browser then you can copy paste these lines to your My Filters section and enjoy your reading.
+```text
+asuracomic.net##.overflow-hidden.relative.shadow-lg.md\:px-10.md\:py-12.px-4.py-8.text-white.to-indigo-800.via-purple-900.from-indigo-900.bg-gradient-to-br
+asuracomic.net##.overflow-y-auto.p-4.z-50.justify-center.items-center.flex.bg-opacity-75.bg-gray-900.inset-0.fixed
+```
+### How to Do It
+1. Install [ublock](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm).
+2. Open ublock extension.
+3. Click the button on right bottom which opens the dashboard.
+4. Click the My Filters.
+5. Paste the given text there.
+6. Enjoy your time!
+
+Credit to [u/Unknownabc_doggie](https://www.reddit.com/r/Manhua/comments/1i9vxzz/comment/m98soep/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+---
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
